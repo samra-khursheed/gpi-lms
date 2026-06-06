@@ -12,6 +12,14 @@ This LMS was designed and developed as a complete web-based platform to digitize
 
 The project reflects my long-term goal of building affordable digital learning tools for students in Pakistan, bridging the gap between traditional education and modern technology.
 
+
+
+
+
+
+
+
+
 ---
 
 ## 🌟 Features
@@ -118,7 +126,7 @@ lms/
 ### 🛡️ Admin Dashboard Preview
 Here is a preview of the secure Admin Panel interface:
 
-![Admin Dashboard]() 
+![Admin Dashboard](<img width="1922" height="935" alt="Image" src="https://github.com/user-attachments/assets/6d232889-ea48-4fe4-9467-2e4e194814d0" />) 
 
 
 ---
