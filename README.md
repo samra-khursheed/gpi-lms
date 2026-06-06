@@ -16,10 +16,6 @@ The project reflects my long-term goal of building affordable digital learning t
 
 
 
-
-
-
-
 ---
 
 ## 🌟 Features
@@ -126,7 +122,8 @@ lms/
 ### 🛡️ Admin Dashboard Preview
 Here is a preview of the secure Admin Panel interface:
 
-![Admin Dashboard]("C:\Users\hp\Desktop\admin_ss.png") 
+![Admin Dashboard]("img width="1922" height="935" alt="admin_ss" src="https://github.com/user-attachments/assets/3d8dc98a-3bbc-4e4e-ba18-a08108fdfb62")
+
 
 
 ---
