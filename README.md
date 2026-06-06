@@ -126,7 +126,7 @@ lms/
 ### 🛡️ Admin Dashboard Preview
 Here is a preview of the secure Admin Panel interface:
 
-![Admin Dashboard](<img width="1922" height="935" alt="Image" src="https://github.com/user-attachments/assets/6d232889-ea48-4fe4-9467-2e4e194814d0" />) 
+![Admin Dashboard]("C:\Users\hp\Desktop\admin_ss.png") 
 
 
 ---
